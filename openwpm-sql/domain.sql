@@ -1,0 +1,1 @@
+SELECT DISTINCT(SUBSTRING(url FROM '.*://([^:/]*)')) FROM urls;

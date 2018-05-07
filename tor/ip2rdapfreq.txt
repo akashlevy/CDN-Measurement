@@ -1,0 +1,1030 @@
+Hetzner Online GmbH & 60 \\
+Deutsche Telekom & 51 \\
+DigitalOcean, LLC & 49 \\
+Linode Network Operations & 36 \\
+Comcast Cable Communications, LLC & 36 \\
+Vultr Holdings, LLC & 27 \\
+OVH Hosting, Inc. & 26 \\
+Unitymedia Administration & 18 \\
+Japan Network Information Center & 18 \\
+RIP Mean & 17 \\
+Proxad & 16 \\
+Liberty Global RIPE DBM & 15 \\
+IRT-JPNIC-JP & 15 \\
+Contabo & 14 \\
+Kabel Deutschland RIPE & 13 \\
+Comcast Cable Communications, Inc. & 12 \\
+KW Datacenter & 12 \\
+HEG & 12 \\
+Time Warner Cable Internet LLC & 12 \\
+myLoc & 12 \\
+MCI Communications Services, Inc. d/b/a Verizon Business & 11 \\
+Verizon Internet Services & 11 \\
+KDCTRL & 11 \\
+Amazon EC2 & 11 \\
+JSC Rostelecom & 11 \\
+Technologies UUnet Technologies, Inc. & 11 \\
+mediaWays & 10 \\
+Charter Communications & 10 \\
+Datasource AG & 10 \\
+THCServers & 10 \\
+LeaseWeb Netherlands & 10 \\
+Google LLC & 10 \\
+Versatel & 10 \\
+Digital Ocean Inc & 9 \\
+Vodafone Germany & 9 \\
+Comcast IP Services, L.L.C. & 8 \\
+XS4ALL Internet & 8 \\
+GRnet & 8 \\
+Netcup & 8 \\
+France Telecom & 8 \\
+LeaseWeb Deutschland & 7 \\
+Microsoft & 7 \\
+Yourserver.se & 7 \\
+Erich Rieder & 6 \\
+Cox Communications Inc. & 6 \\
+Microsoft Routing, Peering, and DNS & 6 \\
+Josef Grill & 6 \\
+Magyar Telekom Abuse Contact & 6 \\
+WEDOS Internet & 6 \\
+IP Admin & 6 \\
+M-net Abuse contact & 6 \\
+Paul Carter & 6 \\
+UPC Cablecom Abuse & 6 \\
+Divya Quamara & 6 \\
+Petr Stastny & 6 \\
+Abuse Contact NetCologne & 6 \\
+Francisco Dias & 6 \\
+Amazon Technologies Inc. & 6 \\
+Christian Xaver Mueller & 6 \\
+hostmaster NETCOLOGNE & 6 \\
+Solar Communications GMBH & 6 \\
+Microsoft Corporation & 6 \\
+Abuse contact & 6 \\
+Jonathan Buckle & 6 \\
+Matthew Jepp & 6 \\
+QuadraNet, Inc & 6 \\
+Network Operations & 6 \\
+Chris Byrd & 6 \\
+NbIServ Abuse & 6 \\
+GLOBALAXS NOC & 6 \\
+FORPSI www.forpsi.com & 5 \\
+OVH (NWK) & 5 \\
+Network Abuse and Policy Observance & 5 \\
+Comcast Cable Communications Inc & 5 \\
+Josef Smidrkal & 5 \\
+Susanna Santini & 5 \\
+ARUBA NOC & 5 \\
+Marek Lang & 5 \\
+Stefano Cecconi & 5 \\
+trabia network Hong Kong & 5 \\
+Cox Communications & 5 \\
+ABRATICA Hostmasters & 5 \\
+Hurricane Electric & 5 \\
+IRT-TWNIC-AP & 5 \\
+Hurricane Electric, Inc. & 5 \\
+trabia network & 5 \\
+COOLHOUSING Hostmasters & 5 \\
+Ilan Mishan & 5 \\
+Centurylink Abuse Desk & 5 \\
+Qwest Communications Company, LLC & 5 \\
+Boukhayar Akchar & 5 \\
+trabia network Moldova & 5 \\
+KPN B.V. & 5 \\
+Qwest IP Admin & 5 \\
+Chris Jarvest & 4 \\
+Lino Moragon & 4 \\
+IPAdmin ATT Internet Services & 4 \\
+Gerald Heerink & 4 \\
+IP Allocation & 4 \\
+BENESTRA RIPE ADMINISTRATOR & 4 \\
+QSC Internet Services & 4 \\
+QSC Abuse Contact & 4 \\
+Michal Ulehla & 4 \\
+Ole Krieger & 4 \\
+Qwest IP NOC & 4 \\
+IP.RO - NOC & 4 \\
+Torunn Narvestad & 4 \\
+Thor-Henrik Kvandahl & 4 \\
+IDE Group Network Engineer & 4 \\
+GC Abuse & 4 \\
+IPAdmin-ATT Internet Services & 4 \\
+Michal Prazenka & 4 \\
+Technical Support & 4 \\
+ZIGGO CO BACKBONE AND SECURITY & 4 \\
+Support ATT Internet Services & 4 \\
+RamNode LLC & 4 \\
+IRT-IINET-AU & 4 \\
+ICME NOC & 4 \\
+Christian Hein & 4 \\
+Emerald Onion & 4 \\
+IP admin team & 4 \\
+Andrew Sturmey & 4 \\
+University of Utah & 4 \\
+MDFNet Abuse & 4 \\
+UPC Poland Abuse & 4 \\
+Cristian Haja & 4 \\
+Accelerated NOC & 4 \\
+Abuse ATT Internet Services & 4 \\
+Nicolaj Kamensek & 4 \\
+Init Seven Hostmaster-Team & 4 \\
+Shaw Communications Inc. & 4 \\
+BEZEQINT HOSTMASTERS TEAM & 4 \\
+Qwest Abuse & 4 \\
+SHAW ABUSE & 4 \\
+ZIGGO IP AUTHORITY & 4 \\
+BEZEQINT ABUSE TEAM & 4 \\
+Init Seven Network Operations Center & 4 \\
+Raymond Jetten & 4 \\
+IP Administrator & 4 \\
+Spectrum Networks NOC & 4 \\
+AT&T Internet Services & 4 \\
+ROMI DAYAN & 4 \\
+Marcin Stroszajn & 4 \\
+Telenor Internet Address Registry & 4 \\
+BEZEQINT NETWORKING TEAM & 4 \\
+RamNode & 4 \\
+FranTech Solutions & 4 \\
+Markus Wellauer & 4 \\
+Gabriel Sita & 4 \\
+Elisa Hostmaster & 4 \\
+Markus Hendrich & 4 \\
+Dennis Meijer & 4 \\
+Instituto Federal do Cear & 3 \\
+Network Manager & 3 \\
+Linus Nordberg & 3 \\
+TransIP B.V. Admin & 3 \\
+Technical Contact & 3 \\
+Chris Fabozzi & 3 \\
+Interway Communication NOC role account & 3 \\
+Herbert Hummel & 3 \\
+Optimum Online (Cablevision Systems) & 3 \\
+Denis Tatarskikh & 3 \\
+Antoan Skelenchev & 3 \\
+Nicholas Merrill & 3 \\
+INTERNETO VIZIJA Abuse & 3 \\
+Amazon Data Services Ireland Limited & 3 \\
+hostmaster of the day & 3 \\
+ER-Telecom ISP Contact Role & 3 \\
+Com Hem LIR & 3 \\
+Belgacom Internet Expertise Center & 3 \\
+Nisar Ahmad & 3 \\
+Alexander Jilg & 3 \\
+XMission, L.C. & 3 \\
+Johan Nilsson & 3 \\
+UPC Austria Abuse & 3 \\
+Markus Aberham & 3 \\
+Shinjiru Technology Sdn Bhd administrator & 3 \\
+IP Manager & 3 \\
+TI RIPE Abuse Team & 3 \\
+ARIN Admin & 3 \\
+ABUSE department & 3 \\
+Erik Nihlen & 3 \\
+Sergey Vakhotin & 3 \\
+Hakan Muhlenbock & 3 \\
+IRT-SHINJIRU-MY & 3 \\
+IRT-KRNIC-KR & 3 \\
+Host Master Highway & 3 \\
+HINET Network-Adm & 3 \\
+Netabuse Manager & 3 \\
+Administrator & 3 \\
+Security Incidents Response Center & 3 \\
+ipadmin & 3 \\
+Optimum Online & 3 \\
+Kristoff Bonne & 3 \\
+Mark Wemhoner & 3 \\
+Belgacom Internet Anti-Fraude Center & 3 \\
+Sjaak Jobses & 3 \\
+SURFnet Network Services & 3 \\
+Ilya V. Melkomukov & 3 \\
+Ragnar Anfinsen & 3 \\
+Ali Niknam & 3 \\
+Niels den Otter & 3 \\
+Morten Boeckman Hovland & 3 \\
+Christian Renner & 3 \\
+Frontier Communications & 3 \\
+TI RIPE Team & 3 \\
+Matthias Cramer & 3 \\
+Dag Andre Kvernstrom & 3 \\
+OrangeWebsite.com Technical Department & 3 \\
+The Calyx Institute & 3 \\
+Matthias Oswald & 3 \\
+vollmar.net GmbH Hostmaster & 3 \\
+JR Walden & 3 \\
+Bluewin Contact Role for abuse contact & 3 \\
+FDCservers.net & 3 \\
+DFRI Admin & 3 \\
+Henry Clay Dean & 3 \\
+TalkTalk Abuse Team & 3 \\
+Reinier Schoof & 3 \\
+Jac Kloots & 3 \\
+Abuse Remediation Department & 3 \\
+Sven Van Den Steene & 3 \\
+Altibox role Object & 3 \\
+Marijke Kaat & 3 \\
+Oneblu Abuse & 3 \\
+New Wave NetConnect, LLC & 3 \\
+Cherryservers abuse contact & 3 \\
+Adalsteinn Karlsson & 3 \\
+Thiago Feitosa & 3 \\
+Anton A. Popov & 3 \\
+Gerhard Kleewein & 3 \\
+Mediacom Communications Corp & 3 \\
+Eric Stevens & 3 \\
+EDIS GmbH - Noc Engineer & 3 \\
+Mediacom Abuse & 3 \\
+Route Label & 2 \\
+Total Server Solutions L.L.C. & 2 \\
+TPG Hostmaster & 2 \\
+Pavel Marchev & 2 \\
+Tech & 2 \\
+Engenharia de Redes & 2 \\
+Fabrice Halle & 2 \\
+Jordanka Malkovska & 2 \\
+FAU Abuse Contact & 2 \\
+PCextreme Abuse & 2 \\
+TSS NOC & 2 \\
+Cogent Communications & 2 \\
+PSINet, Inc. & 2 \\
+Hostkey_NL abuse & 2 \\
+Florian Beny & 2 \\
+NFOrce Entertainment BV - Abuse role account & 2 \\
+Mahmoud Elsayed & 2 \\
+UPC Ireland Abuse & 2 \\
+TECHCREA SOLUTIONS ABUSE TEAM & 2 \\
+Matt George Connor & 2 \\
+Network security & 2 \\
+Ivan Ivanov & 2 \\
+Tech Contact & 2 \\
+DNA Registry Manager & 2 \\
+Primacom Hostmaster & 2 \\
+Administrao Rede IP Telesp & 2 \\
+Dean Belev & 2 \\
+BYTEMARK TECH & 2 \\
+CondoInternet Abuse & 2 \\
+Comcast Cable Communications & 2 \\
+Marian Ivasiuk & 2 \\
+abuse department Ikoula & 2 \\
+Bornfiber NOC & 2 \\
+NEMESYS ABUSE TEAM & 2 \\
+Pulse Servers & 2 \\
+Markus Weber & 2 \\
+Peter Bosman & 2 \\
+Dansk Kabel TV Contact Administrative & 2 \\
+IRT-AAPT-AU & 2 \\
+Hostwinds Network Operations Center & 2 \\
+Rune K Larsen & 2 \\
+MIT Network Operations & 2 \\
+Abuse Contact for LIR ru.uralwes & 2 \\
+Long Lines Internet Network Operations & 2 \\
+sol.net Network Services & 2 \\
+abuse department & 2 \\
+Mark Silis & 2 \\
+Yordan Kritski & 2 \\
+Ben Castricum & 2 \\
+NCREN Hostmaster & 2 \\
+Vasil Marin & 2 \\
+Pascal Gloor & 2 \\
+DataShack, LC & 2 \\
+Grupo de Segurana Vrtua & 2 \\
+Jordan Grigorov & 2 \\
+Solnet Network Services Hostmaster & 2 \\
+MTU Abuse-c Bender & 2 \\
+Zlatko Yordanov & 2 \\
+Dan Epure & 2 \\
+Sebastian Abt & 2 \\
+SkyMesh HostMaster & 2 \\
+Sugarhosts Abuse Department & 2 \\
+Peter Winkler & 2 \\
+BHost NOC & 2 \\
+Lanet NOC & 2 \\
+Philippe Van Hecke & 2 \\
+Heiko Liebscher & 2 \\
+DATACLUB ABUSE TEAM & 2 \\
+Netsilvania Abuse Role & 2 \\
+TDC A-S Denmark Abuse & 2 \\
+Hostwinds LLC. & 2 \\
+Hostwinds Abuse Center & 2 \\
+Thomas Rott & 2 \\
+Vladimir Igor Ghinculov & 2 \\
+Parknet Abuse Role & 2 \\
+Markus Bangerter & 2 \\
+MARIUS BORTA & 2 \\
+prgmr.com, Inc. & 2 \\
+GorillaServers, Inc. & 2 \\
+AIRVPSCOMP VPS Reseller (Direct Abuse) & 2 \\
+Kalin Ivanov & 2 \\
+Google Fiber Inc. & 2 \\
+Neven Dilkov & 2 \\
+Abuse team & 2 \\
+Tomasz Kras & 2 \\
+Numericable Administrative Role Account & 2 \\
+Comcast Cable Communications, IP Services & 2 \\
+Dansk Kabel TV Contact Abuse & 2 \\
+Panagiota Zachopoulou & 2 \\
+Christian Renaudineau & 2 \\
+BuyVM & 2 \\
+BELNET Service Support Team & 2 \\
+Peter R Taphouse & 2 \\
+Frontier Communications Corporation & 2 \\
+IRT-SKYMESH-AU & 2 \\
+nazwa.pl Administrator & 2 \\
+North Carolina Research and Education Network & 2 \\
+TechEVE Ltd & 2 \\
+Hostmaster & 2 \\
+Pascal Panneels & 2 \\
+Abuse Dep't & 2 \\
+MIT Network Security & 2 \\
+Vodafone Italy IP ASSIGN team & 2 \\
+Tihomir Minkov & 2 \\
+IRT-SPARK-NZ & 2 \\
+Antoniy Nedialkov & 2 \\
+John van Zanten & 2 \\
+Tobias Rehn & 2 \\
+Stefan Rehn & 2 \\
+Computer Science and Artificial Intelligence Lab & 2 \\
+Bastien Pilat & 2 \\
+Andrey Sepetchi & 2 \\
+Vodafone Italy & 2 \\
+Nick Bustin & 2 \\
+Hubert Lesclaux & 2 \\
+PARFUMURI FEMEI COM SRL & 2 \\
+Achilles Voliotis & 2 \\
+Abuse Role & 2 \\
+rh-tec Hostmaster & 2 \\
+Rogers Communications Canada Inc. & 2 \\
+Martin Atanasov & 2 \\
+TANET ADMIN & 2 \\
+Mike Reichow & 2 \\
+Massachusetts Institute of Technology & 2 \\
+OTE IP ADM & 2 \\
+Erich Hohermuth & 2 \\
+ABUSE SERV & 2 \\
+Arthur Oliemans & 2 \\
+Network Operations Network Operations & 2 \\
+Dmitry Evdokimov & 2 \\
+Thorsten Krohn & 2 \\
+Dansk Kabel TV Contact Technical & 2 \\
+DNA Registry & 2 \\
+Ralf Niemann & 2 \\
+TekSavvy Solutions Inc. & 2 \\
+NOS OIGNONS administrative contact & 2 \\
+rh-tec technical staff for ip networks & 2 \\
+RCS & RDS NOC & 2 \\
+TELEFNICA BRASIL S.A & 2 \\
+AS3292 Staff & 2 \\
+Numericable Technical Role Account & 2 \\
+RTComm.RU abuse & 2 \\
+Fullrate Technical Contact & 2 \\
+Quickline AG & 2 \\
+Jan Torreele & 2 \\
+Google Fiber Abuse & 2 \\
+Thomas Jessen & 2 \\
+CLARO S.A. & 2 \\
+Nicolas Colombet & 2 \\
+KPN Internet & 2 \\
+Axtel, S.A.B. de C.V. & 2 \\
+netINS Network Operations Center & 2 \\
+Michel Renfer & 2 \\
+Bryan Morris & 2 \\
+HostHatch ROLE & 2 \\
+Christian Use & 2 \\
+Cogent Abuse & 2 \\
+WTNET NCC & 2 \\
+WholeSale Internet, Inc. & 2 \\
+Servicio Co-Location RACSA & 2 \\
+Strasmore, Inc. & 2 \\
+Pantelis Papanikolaou & 2 \\
+Telenet Ripe Admins & 2 \\
+IRT-VNNIC-AP & 2 \\
+Amazon.com, Inc. & 2 \\
+Twenty-Three Media Hostmaster & 2 \\
+AS12312 Network Management & 2 \\
+Martin Jaggi & 2 \\
+Neterra contacts & 2 \\
+Martijn Hueskes & 2 \\
+Condointernet.net & 2 \\
+Choopa, LLC & 2 \\
+Matthew Bloch & 2 \\
+Javor Kliachev & 2 \\
+domainfactory Abuse & 2 \\
+Luke Seidel Crawford & 2 \\
+Dominik Dusik & 2 \\
+Mateusz Stankiewicz & 2 \\
+IRT-TPGCOM-AU & 2 \\
+NetNet & 2 \\
+Peter Alexander Holden & 2 \\
+Technical Internet & 2 \\
+Input Output Flood LLC & 2 \\
+WIBO NOC & 1 \\
+Kevin Kelker & 1 \\
+IP MANAGE & 1 \\
+Roland Irle & 1 \\
+NYI & 1 \\
+HSI Abuse & 1 \\
+TELEKOM TECHNICAL & 1 \\
+Nikita I. Krasulin & 1 \\
+Christopher Morrow & 1 \\
+IRT-JGL-HK & 1 \\
+Operations Network Management & 1 \\
+DEMPFS Maroc Telecom & 1 \\
+GLOBAL LAYER & 1 \\
+Alexey S Dyomin & 1 \\
+Supporto Specialistico Business & 1 \\
+New Dream Network, LLC & 1 \\
+Jan Svarc & 1 \\
+HostUS Abuse Desk & 1 \\
+TELEKOM SRBIJA ABUSE & 1 \\
+abuse role & 1 \\
+Stefan Finnbjornsson & 1 \\
+DISTRIBUTEL COMMUNICATIONS LTD. & 1 \\
+Tim Celular S.A. & 1 \\
+Andreas Schneider & 1 \\
+Joachim Saleyka & 1 \\
+Jakub Jermak & 1 \\
+OnX Enterprise Solutions (US) Ltd. & 1 \\
+Donald Lee Renner & 1 \\
+Yi Chu & 1 \\
+Fastweb Abuse & 1 \\
+Unwired Network Operations Center & 1 \\
+AsterNet Ltd. NOC & 1 \\
+Tran Thanh Hai & 1 \\
+Millennium Digital Media & 1 \\
+Backplane LLC & 1 \\
+Newcom Honduras & 1 \\
+ARIN Abuse & 1 \\
+Neel Chauhan & 1 \\
+Centro Educacional Nossa Senhora Auxiliadora & 1 \\
+Infraestrutura Censanet & 1 \\
+Abuse at TELUS & 1 \\
+Amarjeetkaur Bedi & 1 \\
+Henrik Kjonas & 1 \\
+Andre Mueller & 1 \\
+IPERWEB IP MANAGEMENT & 1 \\
+Portlane Abuse & 1 \\
+CALPOP.COM, INC. & 1 \\
+Alexander Bogdanov & 1 \\
+Heiner Kahmann & 1 \\
+Caltech Network Operations Center & 1 \\
+VOCUS PTY LTD & 1 \\
+PrivActually Ltd & 1 \\
+IRT-TSSB-MY & 1 \\
+AMSNET abuse handling & 1 \\
+RCN Corporation & 1 \\
+Maurice Funke & 1 \\
+Vladimir M Klochkov & 1 \\
+Web Africa Networks & 1 \\
+Hostmaster velia.net & 1 \\
+Jarmo Oksanen & 1 \\
+Konstantin Possokhov & 1 \\
+Pavel Ljulchenko & 1 \\
+Abuse NIIF & 1 \\
+IRT-HATHWAY-IN & 1 \\
+Andrew Clarke & 1 \\
+IRT-IDCLOUDHOST-ID & 1 \\
+Alexandr Telyatnikov & 1 \\
+Mark van Herpen & 1 \\
+Airstream Communications, LLC & 1 \\
+CallPlus Network Operations & 1 \\
+Besthosting Role & 1 \\
+Northeast Missouri Rural Telephone Co. & 1 \\
+Santiago Mercado & 1 \\
+Nine Internet Solutions Role Account & 1 \\
+Cox Communications Inc & 1 \\
+Justin Wayne Simmons & 1 \\
+Hostmaster NOC & 1 \\
+Dennis Hayes & 1 \\
+Channel NET Network Operation Centre & 1 \\
+CRYSTELC CO & 1 \\
+Centrilogic, Inc. & 1 \\
+HEG US Abuse Department & 1 \\
+California Institute of Technology & 1 \\
+Nebula Internet Services Abuse Contact & 1 \\
+Consolidated Communications, Inc. & 1 \\
+Alessandro Cesi & 1 \\
+IRT-SUN-HK & 1 \\
+Spectrum Networks Abuse & 1 \\
+Maurizio Tranquilli & 1 \\
+VPS.AG Abuse Contact & 1 \\
+IRT-BSN-1004523-JP & 1 \\
+CentroNet NOC & 1 \\
+ITERANET Contact Role & 1 \\
+GIGABIT HOSTING SDN BHD - Network Administrator & 1 \\
+IRT-SAU-NET-AU & 1 \\
+Bob Keith Loveridge & 1 \\
+Servalis Internet Limitada & 1 \\
+Rick Sloot & 1 \\
+Webfusion UK Abuse Department & 1 \\
+Swiftway Communications, Inc & 1 \\
+Jon Martin & 1 \\
+Liquid Web, L.L.C & 1 \\
+Alan Young & 1 \\
+Mischa Peters & 1 \\
+Giovanni Torre & 1 \\
+HostUS Tech & 1 \\
+Vladimir E Troitskiy & 1 \\
+ORG-ATIA2-AFRINIC & 1 \\
+Cari Merola & 1 \\
+Shu Lam & 1 \\
+IRT-TTDOTCOM-MY & 1 \\
+Jason Brown & 1 \\
+CYTA ABUSE-C & 1 \\
+Gleb Vilochkin & 1 \\
+IRT-NEOSILKROAD-KR & 1 \\
+Liam Bal & 1 \\
+Alexey Dorofeev & 1 \\
+Carsten Paeth & 1 \\
+Michele Meissner & 1 \\
+Henri Wust & 1 \\
+Patric Douhane & 1 \\
+Tori Berube & 1 \\
+IRT-XHOSTFIRE-AP & 1 \\
+IO Cooperative, Inc. & 1 \\
+Windstream Communications LLC & 1 \\
+Bart Dumon & 1 \\
+Berndt Drotleff & 1 \\
+Magnus Risberg & 1 \\
+Abuse Network Operations Center & 1 \\
+HEG US Inc. & 1 \\
+Bjorn Karlsson & 1 \\
+Ghezzi Walter & 1 \\
+Syd Energi ABUSE-C & 1 \\
+Alexander Bninski & 1 \\
+Magnus Bergroth & 1 \\
+Dmitry Ptashnik & 1 \\
+IN-Berlin Abuse & 1 \\
+Adrian Fryatt & 1 \\
+Marian Durkovic & 1 \\
+IPXcore, LLC & 1 \\
+Andrey N Ostrogin & 1 \\
+Mark Ivens & 1 \\
+Portlane NOC & 1 \\
+Jonas Wolniczak & 1 \\
+Richard Sandy & 1 \\
+Oliver Bryssau & 1 \\
+Daniel Kristinn Gunnarsson & 1 \\
+Support Department & 1 \\
+HIvelocity Network Abuse Administrator & 1 \\
+Fredrik Pettai & 1 \\
+Centrilogic IP Admin & 1 \\
+Alvaro Mata & 1 \\
+Fabian Caspers & 1 \\
+SONIC.NET, INC. & 1 \\
+Hostinger Administrators & 1 \\
+John L Ricketts & 1 \\
+Support & 1 \\
+Perspektiv Bredband AB Abuse & 1 \\
+William McGuire & 1 \\
+Gesue' Nistico' & 1 \\
+Eric Laporte & 1 \\
+System Administrators & 1 \\
+Daniel J. Ballenger & 1 \\
+TOCICI LLC & 1 \\
+Ethernet Servers & 1 \\
+It Is Internet Pty Ltd & 1 \\
+Peter Kranz & 1 \\
+Abuse handler 1393 & 1 \\
+Infomaniak Network SA & 1 \\
+Alvin Demond Anderson & 1 \\
+Inter.net Germany GmbH Abuse Handling Role & 1 \\
+Sovintel Abuse Department & 1 \\
+Project Jaguar Network Operations & 1 \\
+Artem Kulkov & 1 \\
+MULTACOM CORPORATION & 1 \\
+LETBOX & 1 \\
+IRT-ALIF-ID & 1 \\
+Alex Vial & 1 \\
+Klaus Gutsche & 1 \\
+DigitalServer Web Hosting en Mxico & 1 \\
+Magnus Thor Haraldsson & 1 \\
+Ivanov Youra & 1 \\
+Rogers Cable Inc. WLFDLE & 1 \\
+Leon Kramer & 1 \\
+System Admin & 1 \\
+Gabor Dobay & 1 \\
+Frontier Communications of America, Inc. & 1 \\
+Optus Internet & 1 \\
+SeFlow s.n.c. di Marco Brame e C. & 1 \\
+lightupNET Admin Staff & 1 \\
+SCZN Netmaster & 1 \\
+Azeem Rao & 1 \\
+B2 Net Solutions Inc. & 1 \\
+Zegdene Mohamed & 1 \\
+Jiapei Group Limited administrator & 1 \\
+James C. Woodard & 1 \\
+IRT-HUTCHISON-HK & 1 \\
+Psychz Networks & 1 \\
+TELUS Communications Inc. & 1 \\
+Solar VPS & 1 \\
+Kenneth Oestrup & 1 \\
+Advania IP Network Operations Center & 1 \\
+Domenico Marocco & 1 \\
+Network Operations Centre & 1 \\
+Peer 1 Dedicated Hosting & 1 \\
+Thomas Hava & 1 \\
+Adriano Cucciniello & 1 \\
+IRT-NOL-HK & 1 \\
+David Hyrule & 1 \\
+CCI ARIN Abuse & 1 \\
+Duong Anh Tu & 1 \\
+Percaccioli Renato & 1 \\
+Jonathan Jeanneret & 1 \\
+Fork Networking, LLC & 1 \\
+StudNet Abuse Contact & 1 \\
+GARSTELECOM MT & 1 \\
+Dmitriy Mudrov & 1 \\
+Oban Lambie & 1 \\
+Cogeco Peer 1 & 1 \\
+Pier Francesco Vincenti & 1 \\
+Klafter, Richard & 1 \\
+Abuse Desk & 1 \\
+TIM SOC & 1 \\
+Henrik Lans & 1 \\
+Sky UK Broadband Hostmaster & 1 \\
+TheNebulaCloud, Inc. & 1 \\
+Devon Bessemer & 1 \\
+HOSTMAZE INC SRL D & 1 \\
+Thomas Wende & 1 \\
+Francesco Pisani & 1 \\
+KINGSTON ROLE & 1 \\
+Gianluca Pace & 1 \\
+Internap Network Services Corporation & 1 \\
+HostUS & 1 \\
+HOSTING90 ABUSE & 1 \\
+DanskNet abuse & 1 \\
+VirtualComplete, LLC & 1 \\
+Matej Vavrousek & 1 \\
+Hosting90 RIPE Administration and Billing & 1 \\
+Mega Cable, S.A. de C.V. & 1 \\
+Alexey Kalinin & 1 \\
+Andry V. Kiselev & 1 \\
+Quintex Alliance Consulting & 1 \\
+MAXNET NOC & 1 \\
+Dennis Emory Hannon & 1 \\
+Pia Loponen & 1 \\
+PEER 1 Network Inc & 1 \\
+Broadstripe & 1 \\
+Lars Jungclaus & 1 \\
+IPAX Hostmaster & 1 \\
+IP Service Wobcom & 1 \\
+Jury L Judin & 1 \\
+Earthlink, Inc. & 1 \\
+Marco Lo Monaco & 1 \\
+DreamHost Abuse Team & 1 \\
+DC Operations & 1 \\
+Mohammed Naser & 1 \\
+Hart voor Internetvrijheid (Abuse) & 1 \\
+Nikolay Yuzefovich & 1 \\
+IRT-DBSCL-HK & 1 \\
+Data Miners S.A. ( Racknation.cr ) & 1 \\
+ARIN Tech & 1 \\
+Shanje.com & 1 \\
+Unilogic Networks BV - Hostmaster Team & 1 \\
+Texas - NOC & 1 \\
+Serbia BroadBand ABUSE TEAM & 1 \\
+Jan-Oke Knies & 1 \\
+Choopa LLC & 1 \\
+Baldwin Lightstream & 1 \\
+Yakovenko Victor & 1 \\
+Thomas Hug & 1 \\
+Unwired & 1 \\
+Long Lines Internet & 1 \\
+CTM NOC & 1 \\
+Bill Grady & 1 \\
+HBC Abuse & 1 \\
+Wave Broadband & 1 \\
+SECURED SERVERS LLC & 1 \\
+Dacentec Abuse & 1 \\
+Stijn Koster & 1 \\
+Interserver, Inc & 1 \\
+Do Anh Tu & 1 \\
+Senior Manager & 1 \\
+William Hsiao & 1 \\
+Karl H. Frankeser & 1 \\
+Jazztel Abuse Department & 1 \\
+Heiner Lante & 1 \\
+Anton Solodukhin & 1 \\
+Static IP Services & 1 \\
+Sergey Terentyev & 1 \\
+Jeremy Gaddis & 1 \\
+NETADS ONLINE LIMITED administrator & 1 \\
+Swipnet Staff & 1 \\
+Greenhost Operations & 1 \\
+Role & 1 \\
+Alexey Vetrov & 1 \\
+Hosting90 RIPE Admins & 1 \\
+Internet Security - IT & 1 \\
+abuse - c & 1 \\
+Andreas Larsen & 1 \\
+Max Tulyev & 1 \\
+WAVE DATA CENTERS, LLC & 1 \\
+Gandi Abuse Department & 1 \\
+IRT-TMNST-MY & 1 \\
+GlobalCity Telecom & 1 \\
+Linevast Hosting abuse handling & 1 \\
+Roderick Waldron & 1 \\
+Digital Based System Company Limited administrator & 1 \\
+IRT-OPTUSINTERNET-AU & 1 \\
+First Colo Ripe Coordination & 1 \\
+IRT-WCG & 1 \\
+TELUS IP Address Administration & 1 \\
+Miralogic monitoring team & 1 \\
+Illia Rudenko & 1 \\
+Windstream Communications Inc & 1 \\
+FIBERNETICS CORPORATION & 1 \\
+Nobis Technology Group, LLC & 1 \\
+Egorov Alexander & 1 \\
+Enrique Roldan & 1 \\
+Anton V Mamaev & 1 \\
+James Fromm & 1 \\
+EMRAN AHMED KAMAL & 1 \\
+MK NETZDIENSTE NOC & 1 \\
+Khalid F Alhalwan & 1 \\
+Marc Keilwerth & 1 \\
+Nicolas Repond & 1 \\
+CSB Hostmaster & 1 \\
+Odd Hoydalsvik & 1 \\
+Neela Kazemi & 1 \\
+Daniel Toennissen & 1 \\
+National IP Administrator & 1 \\
+Serbia BroadBand RIPE TEAM & 1 \\
+ColoCrossing & 1 \\
+XHOSTFIRE Maintainer & 1 \\
+Claus-Peter Rohner & 1 \\
+HostHatch, Inc & 1 \\
+Poghosyan Roman & 1 \\
+Sergey A. Blinov & 1 \\
+Gernot Zander & 1 \\
+Mats S. Olsen & 1 \\
+Abuse dep & 1 \\
+Karla Collison & 1 \\
+Michal Podsiadly & 1 \\
+Network Operation Center & 1 \\
+Ocala Electric Utility & 1 \\
+Eureka Solutions Hostmaster Team & 1 \\
+Mateusz Kwiatkowski & 1 \\
+ABUSE DEPARTMENT & 1 \\
+High5 administrative role account & 1 \\
+Attila Miklos & 1 \\
+Tomas Montero & 1 \\
+Abdullah Rafiq & 1 \\
+Gerrit de Munck & 1 \\
+Grifon Abuse Contact & 1 \\
+Trepalin V Roman & 1 \\
+Kurt Baetens & 1 \\
+Hostkey abuse & 1 \\
+. Network Operations Center & 1 \\
+Afriyandi Afriyandi & 1 \\
+Perfect International, Inc & 1 \\
+SITEL ABUSE & 1 \\
+Mariotto Lucia & 1 \\
+GoDaddy EMEA NOC & 1 \\
+Alcatel Can Wire & 1 \\
+John Smith & 1 \\
+TT DOTCOM SDN BHD administrator & 1 \\
+Ryan Barrie & 1 \\
+Maxim F Struchaev & 1 \\
+Fabian Mueller & 1 \\
+Osnova Telecom admin & 1 \\
+OxygemDigital Inc. & 1 \\
+IRT-MTNL-IN & 1 \\
+SolarVPS, LLC & 1 \\
+NextGenTel Hostmaster & 1 \\
+IRT-HVISCL-HK & 1 \\
+Amazon Data Services Brazil & 1 \\
+Haroon Saeed & 1 \\
+Marek Barczyk & 1 \\
+Franz Georg Koehler & 1 \\
+Continuum Data Centers, LLC. & 1 \\
+Norbert Surowy & 1 \\
+TTC NOC & 1 \\
+EIGO SOLUTII NOC & 1 \\
+Comcast Cable Communications Holdings, Inc & 1 \\
+CloudHosting Data Center Abuse & 1 \\
+TELEKOM ADMIN & 1 \\
+Rosie Agartz & 1 \\
+Timothy Rottly & 1 \\
+Lanteri Salvatore & 1 \\
+ABUSE Role & 1 \\
+CVTSTU NMC & 1 \\
+SoftLayer Abuse Dept & 1 \\
+HL komm Abuse Management & 1 \\
+NetOPs & 1 \\
+Peyman Behbahani & 1 \\
+System Administrator Role-Account & 1 \\
+Interbusiness Network Administration Staff & 1 \\
+CharlesR Paquet & 1 \\
+Peer 1 Network AUP Enforcement & 1 \\
+Hochschule Furtwangen & 1 \\
+Moscow Local Telephone Network NOC & 1 \\
+Alfian Pamungkas Sakawiguna & 1 \\
+Moritz Kaspar Rudert & 1 \\
+ARIN IP Admin & 1 \\
+Adam Samuel Gunderson & 1 \\
+Kevin Kasmai & 1 \\
+Philipp Tiesel & 1 \\
+Sebastien Dupas & 1 \\
+Wide Open West & 1 \\
+IRT-CALLPLUS-NZ & 1 \\
+KAMP NOC & 1 \\
+AAPT Network Operations & 1 \\
+RCN & 1 \\
+Maik Ernemann & 1 \\
+IRT-SPIN-AU & 1 \\
+Rene Luria & 1 \\
+Tommi Kytolainen & 1 \\
+Alberto Alvarez & 1 \\
+Techstorage NOC & 1 \\
+Virtualmaster Contact & 1 \\
+Stefan Kleijkers & 1 \\
+Abuse Group & 1 \\
+BRIGHT HOUSE NETWORKS, LLC & 1 \\
+Johan Mulder & 1 \\
+Nordic University NOC & 1 \\
+Silicon Valley Web Hosting LLC & 1 \\
+MajorHost network & 1 \\
+Ticinocom SA & 1 \\
+Leaseweb US abuse dept & 1 \\
+Roberto De Silva & 1 \\
+home.pl abuse & 1 \\
+NextGenTel Internet Registry & 1 \\
+Patrick Williams & 1 \\
+UK2Group abuse-c & 1 \\
+Abuse Optima Telecom Ltd. & 1 \\
+Jeff Kimmel & 1 \\
+Rene Buch & 1 \\
+Registry Telia Finland & 1 \\
+MIRALOGIC NOC role & 1 \\
+Admin Liquidweb & 1 \\
+SCARLET Contact Role & 1 \\
+IRT-HKTIL-HK & 1 \\
+Pascal Bouchareine & 1 \\
+Terje Tjeldnes & 1 \\
+Phillip Koblence & 1 \\
+GoDaddy.com, LLC & 1 \\
+Havard Eidnes & 1 \\
+WDH & 1 \\
+Brownrice Internet, Inc. & 1 \\
+Aboubakr BA & 1 \\
+Vijay Menezes & 1 \\
+SARENET RIPE & 1 \\
+Martin Verges & 1 \\
+Comcast Cable Communications, Inc & 1 \\
+Universidad Nacional Autonoma de Mexico & 1 \\
+ITMM HGC & 1 \\
+Elsa Lee & 1 \\
+CABLEVISION S.A. & 1 \\
+ARSYS Role Object & 1 \\
+NET1-Admin-Tech & 1 \\
+CCI ARIN Admin & 1 \\
+Unwired Abuse Desk & 1 \\
+Sergey A Solodkiy & 1 \\
+Matyas Koszik & 1 \\
+Philipp Koch & 1 \\
+SYN LTD & 1 \\
+Scott Shackelford & 1 \\
+Net Access Corporation & 1 \\
+295ca Network Operations Centre & 1 \\
+PLUTEX NOC & 1 \\
+George Sturley & 1 \\
+Novus Entertainment Inc. & 1 \\
+Andrey Veselov & 1 \\
+Almar Orn Jonsson & 1 \\
+Sovintel NOC & 1 \\
+Dave Connell & 1 \\
+Steven Gill & 1 \\
+NOC SERVIHOSTING & 1 \\
+Gunnar Gudvardarson & 1 \\
+Per Nihlen & 1 \\
+MivoCloud Administrator & 1 \\
+Miami Network Operations & 1 \\
+Abuse handler 1102 & 1 \\
+Arkadiusz Kawalec & 1 \\
+Windstream Abuse & 1 \\
+IRT-EXETEL-AU & 1 \\
+IRT-MYREPNZ-NZ & 1 \\
+OVH Australia PTY LTD & 1 \\
+Thomas Werner & 1 \\
+H88 S.A. Abuse Contact & 1 \\
+RCN Abuse Department & 1 \\
+NetsurfUSA, Inc. & 1 \\
+Administrative role account & 1 \\
+EPFL SI - Network services EXINFR & 1 \\
+Tobias Schmidt & 1 \\
+Aki Barkarson & 1 \\
+VLADLINK ABUSE & 1 \\
+MyRepublic New Zealand Limited administrator & 1 \\
+Abuse-OpaTelecom & 1 \\
+Thomas Tozzi & 1 \\
+IRT-CTM-MO & 1 \\
+Paolo Lunghi & 1 \\
+Danny Nieuwenhuis & 1 \\
+Greenway & 1 \\
+IPADMIN & 1 \\
+manas.ca & 1 \\
+NIIF-HUNGARNET Abuse-c & 1 \\
+Fredrik Rosenbecker & 1 \\
+Silicon Valley Web Hosting & 1 \\
+Chris George Burnes & 1 \\
+XET Kft. & 1 \\
+Omnis Network, LLC & 1 \\
+Stefano Cutini & 1 \\
+i3D.net Role & 1 \\
+Jon Daniels & 1 \\
+Rogers High-Speed Internet & 1 \\
+ARTNET DB & 1 \\
+Bowdoin College & 1 \\
+Comcast Cable Communicati & 1 \\
+Eivind Olsen & 1 \\
+Sascha Bernhardt & 1 \\
+EARTHLINK, INC & 1 \\
+Andrey G. Sedletsky & 1 \\
+VERES ALEXANDRU CRISTIAN & 1 \\
+EATEL & 1 \\
+R Cable Abuse & 1 \\
+Centrilogic IP Tech & 1 \\
+Sprintlink IP Administrator & 1 \\
+AS200462-Abuse & 1 \\
+vanoppen.biz LLC & 1 \\
+ReliableSite.Net LLC & 1 \\
+WideOpenWest Finance LLC & 1 \\
+Gary T Giesen & 1 \\
+CTM Mcenter & 1 \\
+Psychz Networks Dallas & 1 \\
+TC Abuse Contact & 1 \\
+Tom Spier & 1 \\
+Bogdan Iulian Belu & 1 \\
+Torben Belz & 1 \\
+SFORM abuse handling & 1 \\
+Venture i. S.A NOC & 1 \\
+Network Operations Center IT & 1 \\
+Dedispec, LLC. & 1 \\
+Cliff Albert & 1 \\
+Nobis IP Administration & 1 \\
+Nashirnet NOC & 1 \\
+Jason Lavoie & 1 \\
+SEPFS Maroc Telecom & 1 \\
+SIL Citycable & 1 \\
+Gerhard Scholz & 1 \\
+Claudio Ciotola & 1 \\
+MediaServicePlus Ltd. & 1 \\
+Team Origin Broadband & 1 \\
+Orange Slovensko - RIPE operations & 1 \\
+CHAD HARDING & 1 \\
+CCI ARIN Tech & 1 \\
+Marco Galasso & 1 \\
+Remko Kleijkers & 1 \\
+Gabriel Ramuglia & 1 \\
+NOC4Hosts Inc. & 1 \\
+Kristian Rastas & 1 \\
+Artem Troyansky & 1 \\
+Martijn Schmidt & 1 \\
+Yaroslav Legeda & 1 \\
+Jason Dean Hill & 1 \\
+Hostmaster Get & 1 \\
+LIR Admin & 1 \\
+TC contact IP services & 1 \\
+NTE Hostmaster & 1 \\
+Andrea Maccaglia & 1 \\
+Alexey Lagutkin & 1 \\
+Fabrizio Berto & 1 \\
+Hendrik Lilienthal & 1 \\
+POST Luxembourg Abuse & 1 \\
+Network Abuse Contact & 1 \\
+Techavenue International Ltd administrator & 1 \\
+EBOX & 1 \\
+DNS Administrator & 1 \\
+ATW NOC & 1 \\
+NOC PS & 1 \\
+Hosting Ukraine Ltd. Netmaster & 1 \\
+CHRISTOP HAYDEN & 1 \\
+neoSilkRoad administrator & 1 \\
+Stefan Ideler & 1 \\
+Hiawatha Broadband Communications, Inc & 1 \\
+Sami Gianluigi & 1 \\
+Servers Australia Pty Ltd - Network Administrator & 1 \\
+Ownit Broadband Registry & 1 \\
+Peter Jacoby & 1 \\
+Cloud A & 1 \\
+Digitale Gesellschaft & 1 \\
+NEPHAX Hostmaster & 1 \\
+TELUS BC ORG TECH POC & 1 \\
+IP-ONLY Registry & 1 \\
+JEFFERSON CO. CABLE, INC. & 1 \\
+NetAssist LLC & 1 \\
+Julius Binder & 1 \\
+Thomas Vadahl & 1 \\
+Radic Davydov & 1 \\
+Network Admin & 1 \\
+Joseph Galinis & 1 \\
+IRT-TIL-HK & 1 \\
+RGnet Abuse Contact & 1 \\
+EWE TEL Hostmaster & 1 \\
+Hosting Services, Inc. & 1 \\
+Arnautov Artem & 1 \\
+Kaiju Inc & 1 \\
+Markus Stalder & 1 \\
+Mevlin Ablaza & 1 \\
+Jakub JJermak & 1 \\
+Radovan Opatovsky & 1 \\
+Kosinar, Peter & 1 \\
